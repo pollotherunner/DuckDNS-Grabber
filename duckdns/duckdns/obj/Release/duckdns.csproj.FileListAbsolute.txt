@@ -1,0 +1,7 @@
+C:\Users\gmaci\source\repos\duckdns\duckdns\bin\Release\duckdns.exe.config
+C:\Users\gmaci\source\repos\duckdns\duckdns\bin\Release\duckdns.exe
+C:\Users\gmaci\source\repos\duckdns\duckdns\bin\Release\duckdns.pdb
+C:\Users\gmaci\source\repos\duckdns\duckdns\obj\Release\duckdns.csproj.AssemblyReference.cache
+C:\Users\gmaci\source\repos\duckdns\duckdns\obj\Release\duckdns.csproj.CoreCompileInputs.cache
+C:\Users\gmaci\source\repos\duckdns\duckdns\obj\Release\duckdns.exe
+C:\Users\gmaci\source\repos\duckdns\duckdns\obj\Release\duckdns.pdb
